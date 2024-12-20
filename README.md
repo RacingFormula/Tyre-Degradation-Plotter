@@ -1,2 +1,6 @@
 # Tyre-Degradation-Plotter
- A tool for visualising tyre degradation trends over laps, enabling data-driven strategy decisions in motorsports.
+# Overview
+This script provides:
+- Tyre wear analysis and visualisation over multiple laps.
+- Comparison of degradation rates between different tyre compounds.
+- Insights into lap time impacts due to tyre wear.
